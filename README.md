@@ -1,6 +1,6 @@
 # enzimath
 
-Este repositorio contiene los Jupyter Notebooks de las 4 sesiones teóricas de *Enzimath: Entendiendo a las enzimas entre genes y ecuaciones*. Da click en alguna de las siguiente ligas para comenzar a usar el notebook correspondiente (técnicamente estarás creando una maquina virtual en un servidor en alguna parte del mundo). Binder permite crear esa máquina virtual usando la información contenida en este repositorio de GitHub.
+Este repositorio contiene los Jupyter Notebooks de las 4 sesiones teóricas de *Enzimath: Entendiendo a las enzimas entre genes y ecuaciones*. Da click en alguna de las siguiente ligas para comenzar a usar el notebook correspondiente (técnicamente estarás creando una maquina virtual en un servidor en alguna parte del mundo). Binder permite crear esa máquina virtual usando la información contenida en este repositorio de GitHub e interactuar con ella mediante la computadora donde estás leyendo ésto.
 Una vez creada, podras escribir (texto y ecuaciones) y programar en esa máquina virtual de forma interactiva.
 Si solo quieres ver el notebook y no usarlo interactivamente, da click en el nombre del notebook arriba. 
 GitHub tiene la habilidad de mostrar la imagen estática del notebook en el formato correcto.
