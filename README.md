@@ -15,6 +15,6 @@ Una vez creada, podras escribir (texto y ecuaciones) y programar en esa máquina
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/romanzapien/enzimath/HEAD?urlpath=modelado_sesion_3.ipynb)
 
-**Sesión 4**. *Estimación de los parámetros de Michaelis-Menten (V_max y K_m) a partir de datos experimentales.*
+**Sesión 4**. *Estimación de los parámetros cinéticos de Michaelis-Menten (V_max y K_m) a partir de datos experimentales.*
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/romanzapien/enzimath/HEAD?urlpath=modelado_sesion_4.ipynb)
