@@ -28,3 +28,5 @@ Hay dos posibilidades,
 2. instalar las versiones precisas de los paquetes que usan los notebooks de arriba.
 Para ello requerirás descargar el archivo `Project.toml` que incluye las versiones precisas de los paquetes.
 Cuando se instalan versiones específicas es recomendable crear un "Environment" (Ambiente de Programación en español) en donde debes colocar el archivo `Project.toml` y seguir los pasos indicados en la sección *Creating your own environments* de [https://pkgdocs.julialang.org/v1/environments/#Creating-your-own-environments](https://pkgdocs.julialang.org/v1/environments/#Creating-your-own-environments).
+
+La diferencia es que solo el método 2 puede garantizar que si se corre el mismo notebook en dos computadoras distintas se obtenga el mismo resultado.
