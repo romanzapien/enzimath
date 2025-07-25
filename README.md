@@ -14,6 +14,6 @@ Este repositorio contiene los Jupyter Notebooks de las 4 sesiones de *Enzimath: 
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/romanzapien/enzimath/HEAD?urlpath=modelado_sesion_3.ipynb)
 
-**Modelado Sesión 4**. *Estimación de los parámetros de Michaelis-Menten ($V_{max}$ y $K_m$) a partir de datos experimentales.*
+**Modelado Sesión 4**. *Estimación de los parámetros de Michaelis-Menten (V_max y K_m) a partir de datos experimentales.*
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/romanzapien/enzimath/HEAD?urlpath=modelado_sesion_4.ipynb)
