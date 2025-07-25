@@ -11,7 +11,7 @@ Una vez creada, podras escribir (texto y ecuaciones) y programar en esa máquina
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/romanzapien/enzimath/HEAD?urlpath=modelado_sesion_2.ipynb)
 
-**Sesión 3**. *Enzimas en el contexto de la ecología y evolución.*
+**Sesión 3**. *Enzimas en el contexto de la ecología y evolución de los organismos que las contienen.*
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/romanzapien/enzimath/HEAD?urlpath=modelado_sesion_3.ipynb)
 
