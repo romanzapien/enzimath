@@ -22,5 +22,9 @@ GitHub tiene la habilidad de mostrar la imagen estática del notebook en el form
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/romanzapien/enzimath/HEAD?urlpath=modelado_sesion_4.ipynb)
 
 Si te interesa usar Julia en tu computadora personal, puedes descargar Julia de aquí [https://julialang.org/install/](https://julialang.org/install/).
-Luego, es recomendable crear un "Environment" (Ambiente de Programación en español) donde debes instalar los paquetes que usan los notebooks de arriba.
-Para ello requerirás descargar el archivo `Project.toml` que incluye las versiones precisas de los paquetes que usan los notebooks, moverlo a una carpeta donde crearás el "Environment" y seguir los pasos de indicados en la sección *Creating your own environments* en [https://pkgdocs.julialang.org/v1/environments/#Creating-your-own-environments](https://pkgdocs.julialang.org/v1/environments/#Creating-your-own-environments).
+Luego, hay que instalar los paquetes que usan los notebooks (e.g. `Catalyst`, `Plots`, etc).
+Hay dos posibilidades, 
+1. Instalar cualquier versión de esos paquetes, siguiendo este tutorial, [https://docs.julialang.org/en/v1/stdlib/Pkg/](https://docs.julialang.org/en/v1/stdlib/Pkg/), o
+2. instalar las versiones precisas de los paquetes que usan los notebooks de arriba.
+Para ello requerirás descargar el archivo `Project.toml` que incluye las versiones precisas de los paquetes.
+También es recomendable crear un "Environment" (Ambiente de Programación en español) en donde debes colocar el archivo `Project.toml` y seguir los pasos indicados en la sección *Creating your own environments* de [https://pkgdocs.julialang.org/v1/environments/#Creating-your-own-environments](https://pkgdocs.julialang.org/v1/environments/#Creating-your-own-environments).
