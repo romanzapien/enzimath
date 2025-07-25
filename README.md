@@ -7,10 +7,13 @@ Este repositorio contiene los Jupyter Notebooks de las 4 sesiones de Enzimath. D
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/romanzapien/enzimath/HEAD?urlpath=modelado_sesion_1.ipynb)
 
 **Modelado Sesión 2**. *Cinética enzimática (Michaelis-Menten y más).* 
+
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/romanzapien/enzimath/HEAD?urlpath=modelado_sesion_2.ipynb)
 
 **Modelado Sesión 3**. *Enzimas en el contexto de la ecología y evolución.*
+
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/romanzapien/enzimath/HEAD?urlpath=modelado_sesion_3.ipynb)
 
 **Modelado Sesión 4**. *Estimáción de los parámetros de Michaelis-Menten a partir de datos experimentales.*
+
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/romanzapien/enzimath/HEAD?urlpath=modelado_sesion_4.ipynb)
