@@ -44,7 +44,7 @@ Si te interesa ejecutar los Jupyter Notebooks en tu computadora personal, son ne
 si estuvieramos hablando de un coche, Julia sería el motor y Jupyter el chasis sobre el que se monta el motor. 
 Por lo tanto ...
 
-Primero, debes descargar Julia de aquí [https://julialang.org/install/](https://julialang.org/install/) e instalar los paquetes que usan los notebooks (e.g. `Catalyst`, `Plots`, etc).
+Primero, debes descargar Julia de aquí [https://julialang.org/install/](https://julialang.org/install/) e instalar los paquetes que usan los notebooks (e.g. `Catalyst`, `Plots`, etc) desde la terminal de Julia.
 Hay dos posibilidades, 
 1. Instalar cualquier versión de esos paquetes, siguiendo este tutorial, [https://docs.julialang.org/en/v1/stdlib/Pkg/](https://docs.julialang.org/en/v1/stdlib/Pkg/), o
 2. instalar las versiones precisas de los paquetes que usamos en CdCMx 2025 - GTO3.
