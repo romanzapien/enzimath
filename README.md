@@ -14,22 +14,6 @@ GitHub tiene la habilidad de mostrar la imagen estática del notebook en el form
 
 ## Ejecución en linea
 
-Da click en alguna de las ligas abajo para comenzar a interactuar con el notebook correspondiente.
-Técnicamente al dar click estarás creando una [maquina virtual](https://es.wikipedia.org/wiki/Máquina_virtual) en un servidor en alguna parte del mundo. 
-[Binder](https://mybinder.org) es el servicio en linea que creará esa máquina virtual usando la información contenida en este repositorio de Github permitiéndote interactuar con ella a través de la computadora donde estás leyendo ésto.
-Binder es muy similar a [Google Colab](https://colab.research.google.com), excepto que no requiere una cuenta de correo de Gmail u otra.
-Una vez creada la sesión de Binder, podras utilizar y añadir texto, ecuaciones y código.
-Al dar click en alguna liga de abajo, Binder tardará un tiempo en preparar la maquina virtual. 
-Puedes ver el progreso en la barra de color (yendo de `Waiting` a `Building` a `Pushing` a `Launching`) del rojo al verde.
-Para ver detalles, puedes dar click en `Show` en el la linea `Build Logs`.
-En caso de que Binder lance el mensaje `404 : Not Found. You are requesting a page that does not exist!`, puedes dar click a regresar, copiar la pagina web que aparece al final del `Build Logs` y pegarla en el explorador de internet.
-Tiene que verse similar a ésta, `https://hub.gesis.mybinder.org/user/romanzapien-enzimath-1a0b4fxe/`.
-
-Una vez abierta la sesión de Jupyter mediante Binder, puedes navegar Jupyter de forma convencional.
-Por ejemplo, en la parte de la derecha puedes ver los documentos que forman parte del repositorio, incluyendo los 4 Jupyter Notebooks que contienen el código con el cuál puedes interactuar.
-Da click en el notebook deseado para usarlo.
-Puedes encontrar más información acerca de cómo navegar la interface [aquí](https://jupyterlab.readthedocs.io/en/latest/user/interface.html).
-
 **Sesión 1**. *Programación (Jupyter, Markdown y Julia), Sistemas dinámicos y Mecanismos de reacción enzimática.*
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/romanzapien/enzimath/HEAD?urlpath=modelado_sesion_1.ipynb)
@@ -45,6 +29,23 @@ Puedes encontrar más información acerca de cómo navegar la interface [aquí](
 **Sesión 4**. *Estimación de los parámetros cinéticos de Michaelis-Menten ($`V_{max}`$ y $`K_m`$) a partir de datos experimentales.*
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/romanzapien/enzimath/HEAD?urlpath=modelado_sesion_4.ipynb)
+
+
+Da click en alguna de las ligas abajo para comenzar a interactuar con el notebook correspondiente.
+Técnicamente al dar click estarás creando una [maquina virtual](https://es.wikipedia.org/wiki/Máquina_virtual) en un servidor en alguna parte del mundo. 
+[Binder](https://mybinder.org) es el servicio en linea que creará esa máquina virtual usando la información contenida en este repositorio de Github permitiéndote interactuar con ella a través de la computadora donde estás leyendo ésto.
+Binder es muy similar a [Google Colab](https://colab.research.google.com), excepto que no requiere una cuenta de correo de Gmail u otra.
+Una vez creada la sesión de Binder, podras utilizar y añadir texto, ecuaciones y código.
+Al dar click en alguna liga de abajo, Binder tardará un tiempo en preparar la maquina virtual. 
+Puedes ver el progreso en la barra de color (yendo de `Waiting` a `Building` a `Pushing` a `Launching`) del rojo al verde.
+Para ver detalles, puedes dar click en `Show` en el la linea `Build Logs`.
+En caso de que Binder lance el mensaje `404 : Not Found. You are requesting a page that does not exist!`, puedes dar click a regresar, copiar la pagina web que aparece al final del `Build Logs` y pegarla en el explorador de internet.
+Tiene que verse similar a ésta, `https://hub.gesis.mybinder.org/user/romanzapien-enzimath-1a0b4fxe/`.
+
+Una vez abierta la sesión de Jupyter mediante Binder, puedes navegar Jupyter de forma convencional.
+Por ejemplo, en la parte de la derecha puedes ver los documentos que forman parte del repositorio, incluyendo los 4 Jupyter Notebooks que contienen el código con el cuál puedes interactuar.
+Da click en el notebook deseado para usarlo.
+Puedes encontrar más información acerca de cómo navegar la interface [aquí](https://jupyterlab.readthedocs.io/en/latest/user/interface.html).
 
 Es importante saber que al momento (Julio 2025), Binder limita a 2 Gb la memoria RAM para cada notebook y la sesión se desconectará si no hay actividad durante 10 minutos.
 Esto es entendible, pues Binder es un servicio gratuito que vive de donaciones y que trata de mantener sus recursos disponibles para toda la comunidad.
