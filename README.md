@@ -29,6 +29,10 @@ GitHub tiene la habilidad de mostrar la imagen estática del notebook en el form
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/romanzapien/enzimath/HEAD?urlpath=modelado_sesion_4.ipynb)
 
+Es importante saber que al momento (Julio 2025), al ser un servicio gratuito, Binder limita a 2 Gb la memoria RAM para cada notebook.
+Por lo tanto, puede pasar que algunos notebooks excedan esa capacidad si se importan paquetes pesados o se muestran gráficas muy detalladas.
+En esos casos es recomendable ejecutar los Jupyter Notebook en tu computadora local (la cual probablemente tenga más de 2 Gb de memoria RAM).
+
 ## Ejecución en tu computadora personal
 
 Si te interesa ejecutar los Jupyter Notebooks en tu computadora personal, son necesarios dos pasos, que se pueden entender de la siguiente manera:
