@@ -58,3 +58,4 @@ Aquí puedes ver un el [tutorial sobre como usar Jupyter Notebooks en VSCode](ht
 
 Una vez instalado Julia, sus paquetes, y VSCode estarás listx para manipular y ejecutar los Jupyter Notebooks en tu computadora personal.
 Hay bastante información en linea si quisieras complementar estos pasos de instalación sencillos.
+** Todo el software usado aquí es OpenAccess, es decir gratuito y de libre acceso.**
