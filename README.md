@@ -56,6 +56,6 @@ Yo recomiendo [Visual Studio Code (VSCode)](https://code.visualstudio.com) que n
 [Da click aquí para descargar VSCode](https://code.visualstudio.com/download).
 Aquí puedes ver un el [tutorial sobre como usar Jupyter Notebooks en VSCode](https://code.visualstudio.com/docs/datascience/jupyter-notebooks).
 
-Una vez instalado Julia, sus paquetes, y VSCode estarás listx para manipular y ejecutar los Jupyter Notebooks en tu computadora personal.
+Una vez instalados Julia, sus paquetes, y VSCode estarás listx para manipular y ejecutar los Jupyter Notebooks en tu computadora personal.
 Hay bastante información en linea si quisieras complementar estos pasos de instalación sencillos.
 **Todo el software usado aquí es OpenAccess, es decir gratuito y de libre acceso**.
