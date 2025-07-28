@@ -2,7 +2,7 @@
 
 Este repositorio contiene los Jupyter Notebooks de las 4 sesiones teóricas de *Enzimath: Entendiendo a las enzimas entre genes y ecuaciones* para Clubes de Ciencia México 2025 sede Guanajuato (CdCMx 2025 - GTO3). 
 
-Da click en alguna de las siguientes ligas para comenzar a interactuar con el notebook correspondiente (técnicamente al dar click estarás creando una [maquina virtual](https://es.wikipedia.org/wiki/Máquina_virtual) en un servidor en alguna parte del mundo). 
+Da click en alguna de las ligas abajo para comenzar a interactuar con el notebook correspondiente (técnicamente al dar click estarás creando una [maquina virtual](https://es.wikipedia.org/wiki/Máquina_virtual) en un servidor en alguna parte del mundo). 
 [Binder](https://mybinder.org) es un servicio en linea que permite crear esa máquina virtual usando la información contenida en este repositorio de [GitHub](https://es.wikipedia.org/wiki/GitHub) e interactuar con ella a través de la computadora donde estás leyendo ésto.
 Una vez creada la sesión de Binder, podras utilizar y añadir texto y ecuaciones, así como ejecutar código.
 Si solo quieres vizualizar el notebook (no hacer modificaciones o ejecutar código), da click en el nombre del notebook arriba. 
