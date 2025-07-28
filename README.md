@@ -60,7 +60,7 @@ Cuando se instalan versiones específicas de paquetes es recomendable crear un "
 
 La diferencia es que solo el método 2 puede garantizar que si se corre el mismo Jupyter Notebook en dos computadoras distintas se obtenga el mismo resultado.
 **Para aquellos que inician en la programación la posibilidad 1<sup>*</sup> es suficiente, para aquellos en investigación, la posibilidad 2 es recomendable**. 
-<sup>*</sup> Algunos comandos de Julia podrían cambiar en nuevas versiones de los paquetes, solo el método 2 garantiza que los notebooks se puedan utilizar tal como están escritos.
+<sup>*</sup>Algunos comandos de Julia podrían cambiar en nuevas versiones de los paquetes, solo el método 2 garantiza que los notebooks se puedan utilizar tal como están escritos.
 
 Segundo, debes descargar una interfaz gráfica para visualizar los Jupyter Notebook en formato correcto.
 Yo recomiendo [Visual Studio Code (VSCode)](https://code.visualstudio.com) que no solo funciona con `Julia`, sino con `Python`, `C++`, etc.
