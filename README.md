@@ -29,7 +29,9 @@ GitHub tiene la habilidad de mostrar la imagen estática del notebook en el form
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/romanzapien/enzimath/HEAD?urlpath=modelado_sesion_4.ipynb)
 
-Es importante saber que al momento (Julio 2025), al ser un servicio gratuito, Binder limita a 2 Gb la memoria RAM para cada notebook.
+Es importante saber que al momento (Julio 2025), Binder limita a 2 Gb la memoria RAM para cada notebook y la sesión se desconectará si no hay actividad durante 10 minutos.
+Esto es entendible, pues Binder es un servicio gratuito que vive de donaciones y que trata de mantener sus recursos disponibles a toda la comunidad.
+Pueder leer los limites actuales [aquí](https://mybinder.readthedocs.io/en/latest/about/user-guidelines.html).
 Por lo tanto, puede pasar que algunos notebooks excedan esa capacidad si se importan paquetes pesados o se muestran gráficas muy detalladas.
 En esos casos es recomendable ejecutar los Jupyter Notebook en tu computadora local (la cual probablemente tenga más de 2 Gb de memoria RAM).
 
