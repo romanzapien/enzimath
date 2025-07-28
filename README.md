@@ -37,7 +37,7 @@ Técnicamente al dar click estarás creando una [maquina virtual](https://es.wik
 [Binder](https://mybinder.org) es el servicio en linea que creará esa máquina virtual usando la información contenida en este repositorio de Github permitiéndote interactuar con ella a través de la computadora donde estás leyendo ésto.
 Binder es muy similar a [Google Colab](https://colab.research.google.com), excepto que no requiere una cuenta de correo de Gmail u otra.
 Una vez creada la sesión de Binder, podras utilizar y añadir texto, ecuaciones y código.
-Al dar click en alguna liga de abajo, Binder tardará un tiempo en preparar la maquina virtual. 
+Al dar click en alguna liga de arriba, Binder tardará un tiempo en preparar la maquina virtual. 
 Puedes ver el progreso en la barra de color (yendo de `Waiting` a `Building` a `Pushing` a `Launching`) del rojo al verde.
 Para ver detalles, puedes dar click en `Show` en el la linea `Build Logs`.
 En caso de que Binder lance el mensaje `404 : Not Found. You are requesting a page that does not exist!`, puedes dar click a regresar, copiar la pagina web que aparece al final del `Build Logs` y pegarla en el explorador de internet.
