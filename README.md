@@ -41,7 +41,7 @@ Y si tu notebook excede la capacidad RAM (por ejemplo con paquetes pesados o gr�
 ## Ejecución en tu computadora personal
 
 Si te interesa ejecutar los Jupyter Notebooks en tu computadora personal, son necesarios dos pasos, que se pueden entender de la siguiente manera:
-si estuvieramos hablando con coches, Julia sería el motor y Jupyter el chasis sobre el que se monta el motor. 
+si estuvieramos hablando de un coche, Julia sería el motor y Jupyter el chasis sobre el que se monta el motor. 
 Por lo tanto ...
 
 Primero, debes descargar Julia de aquí [https://julialang.org/install/](https://julialang.org/install/) e instalar los paquetes que usan los notebooks (e.g. `Catalyst`, `Plots`, etc).
