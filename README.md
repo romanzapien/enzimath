@@ -5,6 +5,16 @@ Este repositorio de [GitHub](https://es.wikipedia.org/wiki/GitHub) contiene los 
 Los Jupyter Notebooks que vez arriba tienen extensión `.ipynb`, una abreviación de iPython Notebook.
 A pesar del nombre, en ellos trabajaremos con el lenguaje de programación [Julia](https://julialang.org) no [Python](https://www.python.org), escribiendo texto y ecuaciones en formato [Markdown](https://www.markdownguide.org), todo contenido en el documento de `Jupyter`. 
 
+Los tópicos son:
+
+**Sesión 1**. *Programación (Jupyter, Markdown y Julia), Sistemas dinámicos y Mecanismos de reacción enzimática.*
+
+**Sesión 2**. *Cinética enzimática ([Michaelis-Menten](https://es.wikipedia.org/wiki/Cinética_de_Michaelis-Menten) y más).* 
+
+**Sesión 3**. *Enzimas en el contexto de la ecología y evolución de los organismos que las contienen.*
+
+**Sesión 4**. *Estimación de los parámetros cinéticos de Michaelis-Menten ($`V_{max}`$ y $`K_m`$) a partir de datos experimentales.*
+
 **Todo el software usado aquí es OpenAccess, es decir gratuito y de libre acceso**.
 
 ## Visualización sin código interactivo
@@ -14,24 +24,15 @@ GitHub tiene la habilidad de mostrar la imagen estática del notebook en el form
 
 ## Ejecución en linea
 
-**Sesión 1**. *Programación (Jupyter, Markdown y Julia), Sistemas dinámicos y Mecanismos de reacción enzimática.*
+**Sesión 1**. [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/romanzapien/enzimath/HEAD?urlpath=modelado_sesion_1.ipynb)
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/romanzapien/enzimath/HEAD?urlpath=modelado_sesion_1.ipynb)
+**Sesión 2**. [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/romanzapien/enzimath/HEAD?urlpath=modelado_sesion_2.ipynb)
 
-**Sesión 2**. *Cinética enzimática ([Michaelis-Menten](https://es.wikipedia.org/wiki/Cinética_de_Michaelis-Menten) y más).* 
+**Sesión 3**. [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/romanzapien/enzimath/HEAD?urlpath=modelado_sesion_3.ipynb)
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/romanzapien/enzimath/HEAD?urlpath=modelado_sesion_2.ipynb)
+**Sesión 4**. [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/romanzapien/enzimath/HEAD?urlpath=modelado_sesion_4.ipynb)
 
-**Sesión 3**. *Enzimas en el contexto de la ecología y evolución de los organismos que las contienen.*
-
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/romanzapien/enzimath/HEAD?urlpath=modelado_sesion_3.ipynb)
-
-**Sesión 4**. *Estimación de los parámetros cinéticos de Michaelis-Menten ($`V_{max}`$ y $`K_m`$) a partir de datos experimentales.*
-
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/romanzapien/enzimath/HEAD?urlpath=modelado_sesion_4.ipynb)
-
-
-Da click en alguna de las ligas abajo para comenzar a interactuar con el notebook correspondiente.
+Da click en alguna de las ligas de arriba para comenzar a interactuar con el notebook correspondiente.
 Técnicamente al dar click estarás creando una [maquina virtual](https://es.wikipedia.org/wiki/Máquina_virtual) en un servidor en alguna parte del mundo. 
 [Binder](https://mybinder.org) es el servicio en linea que creará esa máquina virtual usando la información contenida en este repositorio de Github permitiéndote interactuar con ella a través de la computadora donde estás leyendo ésto.
 Binder es muy similar a [Google Colab](https://colab.research.google.com), excepto que no requiere una cuenta de correo de Gmail u otra.
