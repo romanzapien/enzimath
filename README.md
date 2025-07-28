@@ -1,5 +1,7 @@
 # enzimath
 
+## Ejecución en linea
+
 Este repositorio de [GitHub](https://es.wikipedia.org/wiki/GitHub) contiene los [Jupyter Notebooks](https://es.wikipedia.org/wiki/Proyecto_Jupyter#Jupyter_Notebook) de las 4 sesiones teóricas de *Enzimath: Entendiendo a las enzimas entre genes y ecuaciones* para Clubes de Ciencia México 2025 sede Guanajuato (CdCMx 2025 - GTO3). 
 
 Da click en alguna de las ligas abajo para comenzar a interactuar con el notebook correspondiente (técnicamente al dar click estarás creando una [maquina virtual](https://es.wikipedia.org/wiki/Máquina_virtual) en un servidor en alguna parte del mundo). 
@@ -27,7 +29,9 @@ A pesar del nombre, en ellos trabajaremos con el lenguaje de programación `Juli
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/romanzapien/enzimath/HEAD?urlpath=modelado_sesion_4.ipynb)
 
-Si te interesa executar los Jupyter Notebooks en tu computadora personal, son necesarios dos pasos, que se pueden entender de la siguiente manera:
+## Ejecución en tu computadora personal
+
+Si te interesa ejecutar los Jupyter Notebooks en tu computadora personal, son necesarios dos pasos, que se pueden entender de la siguiente manera:
 si estuvieramos hablando con coches, Julia sería el motor y Jupyter el chasis sobre el que se monta el motor. 
 Por lo tanto ...
 
@@ -45,5 +49,5 @@ Yo recomiendo Visual Studio Code (VSCode) que no solo funciona con `Julia`, sino
 [Da click aquí para descargar VSCode](https://code.visualstudio.com/download).
 Aquí puedes ver un el [tutorial sobre como usar Jupyter Notebooks en VSCode](https://code.visualstudio.com/docs/datascience/jupyter-notebooks).
 
-Una vez instalado Julia, sus paquetes, y VSCode estarás listx para manipular y executar los Jupyter Notebooks en tu computadora personal.
+Una vez instalado Julia, sus paquetes, y VSCode estarás listx para manipular y ejecutar los Jupyter Notebooks en tu computadora personal.
 Hay bastante información en linea para si quisieras complementar esta instalación sencilla.
