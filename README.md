@@ -50,7 +50,7 @@ La diferencia es que solo el método 2 puede garantizar que si se corre el mismo
 **Para aquellos que inician en la programación la posibilidad 1 es suficiente, para aquellos en investigación, la posibilidad 2 es recomendable**.
 
 Segundo, debes descargar una interfaz gráfica para visualizar los Jupyter Notebook en formato correcto.
-Yo recomiendo Visual Studio Code (VSCode) que no solo funciona con `Julia`, sino con `Python`, `C++`, etc.
+Yo recomiendo [Visual Studio Code (VSCode)](https://code.visualstudio.com) que no solo funciona con `Julia`, sino con `Python`, `C++`, etc.
 [Da click aquí para descargar VSCode](https://code.visualstudio.com/download).
 Aquí puedes ver un el [tutorial sobre como usar Jupyter Notebooks en VSCode](https://code.visualstudio.com/docs/datascience/jupyter-notebooks).
 
