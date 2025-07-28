@@ -9,7 +9,7 @@ Si solo quieres vizualizar el notebook (no hacer modificaciones o ejecutar códi
 GitHub tiene la habilidad de mostrar la imagen estática del notebook en el formato correcto.
 
 Los Jupyter Notebooks que vez arriba tienen extensión `.ipynb`, una abreviación de iPython Notebook.
-A pesar del nombre, en ellos trabajaremos con el lenguaje de programación `Julia` no `Python`, escribiendo texto y ecuaciones en formato `Markdown`, todo contenido en el documento de Jupyter. 
+A pesar del nombre, en ellos trabajaremos con el lenguaje de programación `Julia` no `Python`, escribiendo texto y ecuaciones en formato `Markdown`, todo contenido en el documento de `Jupyter`. 
 
 **Sesión 1**. *Programación (Jupyter, Markdown y Julia), Sistemas dinámicos y Mecanismos de reacción enzimática.*
 
