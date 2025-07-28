@@ -72,7 +72,7 @@ La diferencia es que solo el método 2 puede garantizar que si se corre el mismo
 Segundo, debes descargar una interfaz gráfica para visualizar los Jupyter Notebook en formato correcto.
 Yo recomiendo [Visual Studio Code (VSCode)](https://code.visualstudio.com) que no solo puede usarse con `Julia`, sino con `Python`, `C++`, etc.
 [Da click aquí para descargar VSCode](https://code.visualstudio.com/download).
-Aquí puedes ver un el [tutorial sobre como usar Jupyter Notebooks en VSCode](https://code.visualstudio.com/docs/datascience/jupyter-notebooks).
+Aquí puedes ver el [tutorial sobre como usar Jupyter Notebooks en VSCode](https://code.visualstudio.com/docs/datascience/jupyter-notebooks).
 
 Una vez instalados Julia, sus paquetes, y VSCode estarás listx para manipular y ejecutar los Jupyter Notebooks en tu computadora personal.
 Hay bastante información en linea si quisieras complementar estos pasos de instalación sencillos.
