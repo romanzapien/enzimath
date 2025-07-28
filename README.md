@@ -36,7 +36,7 @@ Es importante saber que al momento (Julio 2025), Binder limita a 2 Gb la memoria
 Esto es entendible, pues Binder es un servicio gratuito que vive de donaciones y que trata de mantener sus recursos disponibles para toda la comunidad.
 Puedes consultar los limites actuales [aquí](https://mybinder.readthedocs.io/en/latest/about/user-guidelines.html).
 Por lo tanto, evita dejar inactivo el notebook por largo tiempo.
-Y si tu notebook excede la capacidad RAM (por ejemplo con paquetes pesados o gráficas muy detalladas), reduce el uso de esos paquetes y gráficas, o ejecuta el Jupyter Notebook en tu computadora local (la cual probablemente tenga más de 2 Gb de memoria RAM).
+Y si tu notebook excede la capacidad RAM (por ejemplo con paquetes pesados o gráficas muy detalladas), reduce el uso de esos paquetes y gráficas, o ejecuta el Jupyter Notebook en tu computadora personal (la cual probablemente tenga más de 2 Gb de memoria RAM).
 
 ## Ejecución en tu computadora personal
 
