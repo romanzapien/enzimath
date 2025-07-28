@@ -23,7 +23,7 @@ Al dar click en alguna liga de abajo, Binder tardará un tiempo en preparar la m
 Puedes ver el progreso en la barra de color (yendo de `Waiting` a `Building` a `Pushing` a `Launching`) del rojo al verde.
 Para ver detalles, puedes dar click en `Show` en el la linea `Build Logs`.
 En caso de que Binder lance el mensaje `404 : Not Found. You are requesting a page that does not exist!`, puedes dar click a regresar, copiar la pagina web que aparece al final del `Build Logs` y pegarla en el explorador de internet.
-Tiene que verse similar a ésta, .
+Tiene que verse similar a ésta, `https://hub.gesis.mybinder.org/user/romanzapien-enzimath-1a0b4fxe/`.
 
 **Sesión 1**. *Programación (Jupyter, Markdown y Julia), Sistemas dinámicos y Mecanismos de reacción enzimática.*
 
