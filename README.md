@@ -25,6 +25,11 @@ Para ver detalles, puedes dar click en `Show` en el la linea `Build Logs`.
 En caso de que Binder lance el mensaje `404 : Not Found. You are requesting a page that does not exist!`, puedes dar click a regresar, copiar la pagina web que aparece al final del `Build Logs` y pegarla en el explorador de internet.
 Tiene que verse similar a ésta, `https://hub.gesis.mybinder.org/user/romanzapien-enzimath-1a0b4fxe/`.
 
+Una vez abierta la sesión de Jupyter mediante Binder, puedes navegar Jupyter de forma convencional.
+Por ejemplo, en la parte de la derecha puedes ver los documentos que forman parte del repositorio, incluyendo los 4 Jupyter Notebooks que contienen el código con el cuál puedes interactuar.
+Da click en el notebook deseado para usarlo.
+Puedes encontrar más información acerca de cómo navegar la interface [aquí](https://jupyterlab.readthedocs.io/en/latest/user/interface.html).
+
 **Sesión 1**. *Programación (Jupyter, Markdown y Julia), Sistemas dinámicos y Mecanismos de reacción enzimática.*
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/romanzapien/enzimath/HEAD?urlpath=modelado_sesion_1.ipynb)
