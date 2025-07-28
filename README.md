@@ -12,7 +12,14 @@ A pesar del nombre, en ellos trabajaremos con el lenguaje de programación `Juli
 Da click en alguna de las ligas abajo para comenzar a interactuar con el notebook correspondiente.
 Técnicamente al dar click estarás creando una [maquina virtual](https://es.wikipedia.org/wiki/Máquina_virtual) en un servidor en alguna parte del mundo. 
 [Binder](https://mybinder.org) es el servicio en linea que creará esa máquina virtual usando la información contenida en este repositorio de Github permitiéndote interactuar con ella a través de la computadora donde estás leyendo ésto.
+Binder es muy similar a [Google Colab](https://colab.research.google.com), excepto que no requiere una cuenta de correo de Gmail u otra.
 Una vez creada la sesión de Binder, podras utilizar y añadir texto, ecuaciones y código.
+Al dar click en alguna liga de abajo, Binder tardará un tiempo en preparar la maquina virtual. 
+Puedes ver el estatus actual en la barra de color (yendo de Waiting a Building a ), que val del rojo al verde.
+Para ver detalles, puedes dar click en `Show` en el la linea `Build Logs`.
+En caso de que Binder no lanze el Jupyter Notebook tras la espera típica,
+puedes copiar la dirección web que aparece al final del `Build Logs`, e.g. 
+
 Si solo quieres vizualizar el notebook (no hacer modificaciones o ejecutar código), da click en el nombre del notebook arriba. 
 GitHub tiene la habilidad de mostrar la imagen estática del notebook en el formato correcto.
 
