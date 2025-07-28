@@ -59,8 +59,8 @@ Para ello debes descargar el archivo `Project.toml` (arriba) que indica las vers
 Cuando se instalan versiones específicas de paquetes es recomendable crear un "Environment" (Ambiente de Programación en español) en donde debes colocar el archivo `Project.toml` y seguir los pasos indicados en la sección *Creating your own environments* de [https://pkgdocs.julialang.org/v1/environments/#Creating-your-own-environments](https://pkgdocs.julialang.org/v1/environments/#Creating-your-own-environments).
 
 La diferencia es que solo el método 2 puede garantizar que si se corre el mismo Jupyter Notebook en dos computadoras distintas se obtenga el mismo resultado.
-Adicionalmente, algunos comandos de Julia podrían cambiar en nuevas versiones de los paquetes, solo el método 2 garantiza que los notebooks se puedan utilizar tal como están escritos.
-**Para aquellos que inician en la programación la posibilidad 1 es suficiente, para aquellos en investigación, la posibilidad 2 es recomendable**.
+**Para aquellos que inician en la programación la posibilidad 1<sup>*<\sup> es suficiente, para aquellos en investigación, la posibilidad 2 es recomendable**. 
+<sup>*<\sup> Algunos comandos de Julia podrían cambiar en nuevas versiones de los paquetes, solo el método 2 garantiza que los notebooks se puedan utilizar tal como están escritos.
 
 Segundo, debes descargar una interfaz gráfica para visualizar los Jupyter Notebook en formato correcto.
 Yo recomiendo [Visual Studio Code (VSCode)](https://code.visualstudio.com) que no solo funciona con `Julia`, sino con `Python`, `C++`, etc.
