@@ -2,9 +2,6 @@
 
 Este repositorio de [GitHub](https://es.wikipedia.org/wiki/GitHub) contiene los [Jupyter Notebooks](https://es.wikipedia.org/wiki/Proyecto_Jupyter#Jupyter_Notebook) de las 4 sesiones teóricas de *Enzimath: Entendiendo a las enzimas entre genes y ecuaciones* para Clubes de Ciencia México 2025 sede Guanajuato (CdCMx 2025 - GTO3). 
 
-Los Jupyter Notebooks que vez arriba tienen extensión `.ipynb`, una abreviación de iPython Notebook.
-A pesar del nombre, en ellos trabajaremos con el lenguaje de programación [Julia](https://julialang.org) no [Python](https://www.python.org), escribiendo texto y ecuaciones en formato [Markdown](https://www.markdownguide.org), todo contenido en el documento de `Jupyter`. 
-
 Los tópicos son:
 
 **Sesión 1**. *Programación (Jupyter, Markdown y Julia), Sistemas dinámicos y Mecanismos de reacción enzimática.*
@@ -14,6 +11,9 @@ Los tópicos son:
 **Sesión 3**. *Enzimas en el contexto de la ecología y evolución de los organismos que las contienen.*
 
 **Sesión 4**. *Estimación de los parámetros cinéticos de Michaelis-Menten ($`V_{max}`$ y $`K_m`$) a partir de datos experimentales.*
+
+Los Jupyter Notebooks que vez arriba tienen extensión `.ipynb`, una abreviación de iPython Notebook.
+A pesar del nombre, en ellos trabajaremos con el lenguaje de programación [Julia](https://julialang.org) no [Python](https://www.python.org), escribiendo texto y ecuaciones en formato [Markdown](https://www.markdownguide.org), todo contenido en el documento de `Jupyter`. 
 
 **Todo el software usado aquí es OpenAccess, es decir gratuito y de libre acceso**.
 
