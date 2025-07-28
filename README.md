@@ -5,6 +5,8 @@ Este repositorio de [GitHub](https://es.wikipedia.org/wiki/GitHub) contiene los 
 Los Jupyter Notebooks que vez arriba tienen extensión `.ipynb`, una abreviación de iPython Notebook.
 A pesar del nombre, en ellos trabajaremos con el lenguaje de programación `Julia` no `Python`, escribiendo texto y ecuaciones en formato `Markdown`, todo contenido en el documento de `Jupyter`. 
 
+**Todo el software usado aquí es OpenAccess, es decir gratuito y de libre acceso**.
+
 ## Ejecución en linea
 
 Da click en alguna de las ligas abajo para comenzar a interactuar con el notebook correspondiente (técnicamente al dar click estarás creando una [maquina virtual](https://es.wikipedia.org/wiki/Máquina_virtual) en un servidor en alguna parte del mundo). 
@@ -58,4 +60,3 @@ Aquí puedes ver un el [tutorial sobre como usar Jupyter Notebooks en VSCode](ht
 
 Una vez instalados Julia, sus paquetes, y VSCode estarás listx para manipular y ejecutar los Jupyter Notebooks en tu computadora personal.
 Hay bastante información en linea si quisieras complementar estos pasos de instalación sencillos.
-**Todo el software usado aquí es OpenAccess, es decir gratuito y de libre acceso**.
