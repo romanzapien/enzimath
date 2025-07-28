@@ -4,7 +4,7 @@ Este repositorio de [GitHub](https://es.wikipedia.org/wiki/GitHub) contiene los 
 
 Da click en alguna de las ligas abajo para comenzar a interactuar con el notebook correspondiente (técnicamente al dar click estarás creando una [maquina virtual](https://es.wikipedia.org/wiki/Máquina_virtual) en un servidor en alguna parte del mundo). 
 [Binder](https://mybinder.org) es el servicio en linea que creará esa máquina virtual usando la información contenida en este repositorio de Github permitiéndote interactuar con ella a través de la computadora donde estás leyendo ésto.
-Una vez creada la sesión de Binder, podras utilizar y añadir texto y ecuaciones, así como ejecutar código.
+Una vez creada la sesión de Binder, podras utilizar y añadir texto, ecuaciones y código.
 Si solo quieres vizualizar el notebook (no hacer modificaciones o ejecutar código), da click en el nombre del notebook arriba. 
 GitHub tiene la habilidad de mostrar la imagen estática del notebook en el formato correcto.
 
