@@ -20,7 +20,7 @@ GitHub tiene la habilidad de mostrar la imagen estática del notebook en el form
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/romanzapien/enzimath/HEAD?urlpath=modelado_sesion_1.ipynb)
 
-**Sesión 2**. *Cinética enzimática (Michaelis-Menten y más).* 
+**Sesión 2**. *Cinética enzimática ([Michaelis-Menten](https://es.wikipedia.org/wiki/Cinética_de_Michaelis-Menten) y más).* 
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/romanzapien/enzimath/HEAD?urlpath=modelado_sesion_2.ipynb)
 
@@ -28,7 +28,7 @@ GitHub tiene la habilidad de mostrar la imagen estática del notebook en el form
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/romanzapien/enzimath/HEAD?urlpath=modelado_sesion_3.ipynb)
 
-**Sesión 4**. *Estimación de los parámetros cinéticos de Michaelis-Menten (V_max y K_m) a partir de datos experimentales.*
+**Sesión 4**. *Estimación de los parámetros cinéticos de Michaelis-Menten ($`V_{max}`$ y $`K_m`$) a partir de datos experimentales.*
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/romanzapien/enzimath/HEAD?urlpath=modelado_sesion_4.ipynb)
 
