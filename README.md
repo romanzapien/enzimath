@@ -7,6 +7,11 @@ A pesar del nombre, en ellos trabajaremos con el lenguaje de programación [Juli
 
 **Todo el software usado aquí es OpenAccess, es decir gratuito y de libre acceso**.
 
+## Visualización sin código interactivo
+
+Si solo quieres vizualizar el notebook (no hacer modificaciones o ejecutar código), da click en el nombre del notebook arriba (por ejemplo click en `modelado_sesion_1.ipynb`). 
+GitHub tiene la habilidad de mostrar la imagen estática del notebook en el formato correcto.
+
 ## Ejecución en linea
 
 Da click en alguna de las ligas abajo para comenzar a interactuar con el notebook correspondiente.
@@ -19,9 +24,6 @@ Puedes ver el progreso en la barra de color (yendo de `Waiting` a `Building` a `
 Para ver detalles, puedes dar click en `Show` en el la linea `Build Logs`.
 En caso de que Binder lance el mensaje `404 : Not Found. You are requesting a page that does not exist!`, puedes dar click a regresar, copiar la pagina web que aparece al final del `Build Logs` y pegarla en el explorador de internet.
 Tiene que verse similar a ésta, .
-
-Si solo quieres vizualizar el notebook (no hacer modificaciones o ejecutar código), da click en el nombre del notebook arriba. 
-GitHub tiene la habilidad de mostrar la imagen estática del notebook en el formato correcto.
 
 **Sesión 1**. *Programación (Jupyter, Markdown y Julia), Sistemas dinámicos y Mecanismos de reacción enzimática.*
 
