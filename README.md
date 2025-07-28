@@ -15,10 +15,10 @@ Técnicamente al dar click estarás creando una [maquina virtual](https://es.wik
 Binder es muy similar a [Google Colab](https://colab.research.google.com), excepto que no requiere una cuenta de correo de Gmail u otra.
 Una vez creada la sesión de Binder, podras utilizar y añadir texto, ecuaciones y código.
 Al dar click en alguna liga de abajo, Binder tardará un tiempo en preparar la maquina virtual. 
-Puedes ver el estatus actual en la barra de color (yendo de Waiting a Building a ), que val del rojo al verde.
+Puedes ver el progreso en la barra de color (yendo de `Waiting` a `Building` a `Pushing` a `Launching`) del rojo al verde.
 Para ver detalles, puedes dar click en `Show` en el la linea `Build Logs`.
-En caso de que Binder no lanze el Jupyter Notebook tras la espera típica,
-puedes copiar la dirección web que aparece al final del `Build Logs`, e.g. 
+En caso de que Binder lance el mensaje `404 : Not Found. You are requesting a page that does not exist!`, puedes dar click a regresar, copiar la pagina web que aparece al final del `Build Logs` y pegarla en el explorador de internet.
+Tiene que verse similar a ésta, .
 
 Si solo quieres vizualizar el notebook (no hacer modificaciones o ejecutar código), da click en el nombre del notebook arriba. 
 GitHub tiene la habilidad de mostrar la imagen estática del notebook en el formato correcto.
