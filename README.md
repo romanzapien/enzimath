@@ -22,7 +22,7 @@ A pesar del nombre, en ellos trabajaremos con el lenguaje de programación [Juli
 Si solo quieres vizualizar un notebook (no hacer modificaciones o ejecutar código), da click en el nombre del notebook arriba (por ejemplo click en `modelado_sesion_1.ipynb`). 
 GitHub tiene la habilidad de mostrar la imagen estática del notebook en el formato correcto.
 
-## Ejecución en linea
+## Codigo interactivo en linea
 
 **Sesión 1**. [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/romanzapien/enzimath/HEAD?filepath=modelado_sesion_1.ipynb)
 
@@ -55,13 +55,13 @@ Y si tu notebook excede la capacidad RAM (por ejemplo con paquetes pesados o gr�
 <sup>*</sup> *En caso de que Binder lance el mensaje `404 : Not Found. You are requesting a page that does not exist!`, puedes dar click a regresar, copiar la pagina web que aparece al final del `Build Logs` y pegarla en el explorador de internet.
 Tiene que verse similar a ésta, `https://hub.gesis.mybinder.org/user/romanzapien-enzimath-1a0b4fxe/`.*
 
-## Ejecución en tu computadora personal
+## Codigo interactivo en tu computadora personal
 
 Si te interesa ejecutar los Jupyter Notebooks en tu computadora personal, son necesarios dos pasos, que se pueden entender de la siguiente manera:
 si estuvieramos hablando de un coche, Julia sería el motor y Jupyter el chasis sobre el que se monta el motor. 
 Por lo tanto ...
 
-Primero, debes descargar Julia de aquí [https://julialang.org/install/](https://julialang.org/install/) e instalar los paquetes que usan los notebooks (e.g. `Catalyst`, `Plots`, etc) desde la terminal de Julia.
+Primero, debes descargar Julia de aquí [https://julialang.org/install/](https://julialang.org/install/) (en CdCMx 2025 - GTO3 usamos Julia 1.11) e instalar los paquetes que usan los notebooks (e.g. `Catalyst`, `Plots`, etc) desde la terminal de Julia.
 Hay dos posibilidades, 
 1. Instalar cualquier versión de esos paquetes, siguiendo este tutorial, [https://docs.julialang.org/en/v1/stdlib/Pkg/](https://docs.julialang.org/en/v1/stdlib/Pkg/), o
 2. instalar las versiones precisas de los paquetes que usamos en CdCMx 2025 - GTO3.
