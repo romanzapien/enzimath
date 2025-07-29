@@ -15,11 +15,11 @@ Los tópicos son:
 Los Jupyter Notebooks que vez arriba tienen extensión `.ipynb`, una abreviación de iPython Notebook.
 A pesar del nombre, en ellos trabajaremos con el lenguaje de programación [Julia](https://julialang.org) no [Python](https://www.python.org), escribiendo texto y ecuaciones en formato [Markdown](https://www.markdownguide.org), todo contenido en el documento de `Jupyter`. 
 
-**Todo el software usado aquí es OpenAccess, es decir gratuito y de libre acceso**.
+**Todo el software usado aquí es Open Access, es decir gratuito y de libre acceso**.
 
 ## Visualización sin código interactivo
 
-Si solo quieres vizualizar el notebook (no hacer modificaciones o ejecutar código), da click en el nombre del notebook arriba (por ejemplo click en `modelado_sesion_1.ipynb`). 
+Si solo quieres vizualizar un notebook (no hacer modificaciones o ejecutar código), da click en el nombre del notebook arriba (por ejemplo click en `modelado_sesion_1.ipynb`). 
 GitHub tiene la habilidad de mostrar la imagen estática del notebook en el formato correcto.
 
 ## Ejecución en linea
