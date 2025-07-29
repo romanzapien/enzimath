@@ -39,9 +39,7 @@ Binder es muy similar a [Google Colab](https://colab.research.google.com), excep
 Una vez creada la sesión de Binder, podras utilizar y añadir texto, ecuaciones y código.
 Al dar click en alguna liga de arriba, Binder tardará un tiempo en preparar la maquina virtual. 
 Puedes ver el progreso en la barra de color (yendo de `Waiting` a `Building` a `Pushing` a `Launching`) del rojo al verde.
-Para ver detalles, puedes dar click en `Show` en el la linea `Build Logs`.
-En caso de que Binder lance el mensaje `404 : Not Found. You are requesting a page that does not exist!`, puedes dar click a regresar, copiar la pagina web que aparece al final del `Build Logs` y pegarla en el explorador de internet.
-Tiene que verse similar a ésta, `https://hub.gesis.mybinder.org/user/romanzapien-enzimath-1a0b4fxe/`.
+Para ver detalles, puedes dar click en `Show` en el la linea `Build Logs`<sup>*</sup>.
 
 Una vez abierta la sesión de Jupyter mediante Binder, puedes navegar Jupyter de forma convencional.
 Por ejemplo, en la parte de la derecha puedes ver los documentos que forman parte del repositorio, incluyendo los 4 Jupyter Notebooks que contienen el código con el cuál puedes interactuar.
@@ -53,6 +51,9 @@ Esto es entendible, pues Binder es un servicio gratuito que vive de donaciones y
 Puedes consultar los limites actuales [aquí](https://mybinder.readthedocs.io/en/latest/about/user-guidelines.html).
 Por lo tanto, evita dejar inactivo el notebook por largo tiempo.
 Y si tu notebook excede la capacidad RAM (por ejemplo con paquetes pesados o gráficas muy detalladas), reduce el uso de esos paquetes y gráficas, o ejecuta el Jupyter Notebook en tu computadora personal (la cual probablemente tenga más de 2 Gb de memoria RAM).
+
+<sup>*</sup> *En caso de que Binder lance el mensaje `404 : Not Found. You are requesting a page that does not exist!`, puedes dar click a regresar, copiar la pagina web que aparece al final del `Build Logs` y pegarla en el explorador de internet.
+Tiene que verse similar a ésta, `https://hub.gesis.mybinder.org/user/romanzapien-enzimath-1a0b4fxe/`.*
 
 ## Ejecución en tu computadora personal
 
@@ -69,7 +70,7 @@ Cuando se instalan versiones específicas de paquetes es recomendable crear un "
 
 La diferencia es que solo el método 2 puede garantizar que si se corre el mismo Jupyter Notebook en dos computadoras distintas se obtenga el mismo resultado.
 **Para aquellos que inician en la programación la posibilidad 1<sup>*</sup> es suficiente, para aquellos en investigación, la posibilidad 2 es recomendable**. 
-<sup>*</sup>Algunos comandos de Julia podrían cambiar en nuevas versiones de los paquetes, solo el método 2 garantiza que los notebooks se puedan utilizar tal como están escritos.
+<sup>*</sup> *Algunos comandos de Julia podrían cambiar en nuevas versiones de los paquetes, solo el método 2 garantiza que los notebooks se puedan utilizar tal como están escritos*.
 
 Segundo, debes descargar una interfaz gráfica para visualizar los Jupyter Notebook en formato correcto.
 Yo recomiendo [Visual Studio Code (VSCode)](https://code.visualstudio.com) que no solo puede usarse con `Julia`, sino con `Python`, `C++`, etc.
