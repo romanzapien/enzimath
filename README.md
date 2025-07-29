@@ -22,7 +22,7 @@ A pesar del nombre, en ellos trabajaremos con el lenguaje de programación [Juli
 Si solo quieres vizualizar un notebook (no hacer modificaciones o ejecutar código), da click en el nombre del notebook arriba (por ejemplo click en `modelado_sesion_1.ipynb`). 
 GitHub tiene la habilidad de mostrar la imagen estática del notebook en el formato correcto.
 
-## Codigo interactivo en linea
+## Código interactivo en linea
 
 **Sesión 1**. [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/romanzapien/enzimath/HEAD?filepath=modelado_sesion_1.ipynb)
 
@@ -55,7 +55,7 @@ Y si tu notebook excede la capacidad RAM (por ejemplo con paquetes pesados o gr�
 <sup>*</sup> *En caso de que Binder lance el mensaje `404 : Not Found. You are requesting a page that does not exist!`, puedes dar click a regresar, copiar la pagina web que aparece al final del `Build Logs` y pegarla en el explorador de internet.
 Tiene que verse similar a ésta, `https://hub.gesis.mybinder.org/user/romanzapien-enzimath-1a0b4fxe/`.*
 
-## Codigo interactivo en tu computadora personal
+## Código interactivo en tu computadora personal
 
 Si te interesa ejecutar los Jupyter Notebooks en tu computadora personal, son necesarios dos pasos, que se pueden entender de la siguiente manera:
 si estuvieramos hablando de un coche, Julia sería el motor y Jupyter el chasis sobre el que se monta el motor. 
