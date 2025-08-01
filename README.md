@@ -39,7 +39,7 @@ Binder es muy similar a [Google Colab](https://colab.research.google.com), excep
 Una vez creada la sesión de Binder, podras utilizar y añadir texto, ecuaciones y código.
 Al dar click en alguna liga de arriba, Binder tardará un tiempo en preparar la maquina virtual. 
 Puedes ver el progreso en la barra de color (yendo de `Waiting` a `Building` a `Pushing` a `Launching`) del rojo al verde.
-Para ver detalles, puedes dar click en `Show` en el la linea `Build Logs`<sup>*</sup>.
+Para ver detalles, puedes dar click en `Show` en la linea `Build Logs`<sup>*</sup>.
 
 Una vez abierta la sesión de Jupyter mediante Binder, puedes navegar Jupyter de forma convencional.
 Por ejemplo, en la parte de la derecha puedes ver los documentos que forman parte del repositorio, incluyendo los 4 Jupyter Notebooks que contienen el código con el cuál puedes interactuar.
@@ -53,7 +53,7 @@ Por lo tanto, evita dejar inactivo el notebook por largo tiempo.
 Y si tu notebook excede la capacidad RAM (por ejemplo con paquetes pesados o gráficas muy detalladas), reduce el uso de esos paquetes y gráficas, o ejecuta el Jupyter Notebook en tu computadora personal (la cual probablemente tenga más de 2 Gb de memoria RAM).
 
 **Recuerda que los cambios que hagas en Binder no se guardarán. 
-Si quieres mantener cambios puedes descargae el archivo yendo al menú `File` > `Download` o copia el código en algún editor de texto.**
+Si quieres mantener cambios puedes descargar el archivo yendo al menú `File` > `Download` o copia el código en algún editor de texto.**
 
 <sup>*</sup> *En caso de que Binder lance el mensaje `404 : Not Found. You are requesting a page that does not exist!`, puedes dar click a regresar, copiar la pagina web que aparece al final del `Build Logs` y pegarla en el explorador de internet.
 Tiene que verse similar a ésta, `https://hub.gesis.mybinder.org/user/romanzapien-enzimath-1a0b4fxe/`.*
