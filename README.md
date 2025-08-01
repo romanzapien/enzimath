@@ -53,7 +53,7 @@ Por lo tanto, evita dejar inactivo el notebook por largo tiempo.
 Y si tu notebook excede la capacidad RAM (por ejemplo con paquetes pesados o gráficas muy detalladas), reduce el uso de esos paquetes y gráficas, o ejecuta el Jupyter Notebook en tu computadora personal (la cual probablemente tenga más de 2 Gb de memoria RAM).
 
 **Recuerda que los cambios que hagas en Binder no se guardarán. 
-Si quieres mantener cambios descarga el archivo yendo al menú `File` > `Download`.**
+Si quieres mantener cambios puedes descargae el archivo yendo al menú `File` > `Download` o copia el código en algún editor de texto.**
 
 <sup>*</sup> *En caso de que Binder lance el mensaje `404 : Not Found. You are requesting a page that does not exist!`, puedes dar click a regresar, copiar la pagina web que aparece al final del `Build Logs` y pegarla en el explorador de internet.
 Tiene que verse similar a ésta, `https://hub.gesis.mybinder.org/user/romanzapien-enzimath-1a0b4fxe/`.*
