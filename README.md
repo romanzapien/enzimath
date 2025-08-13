@@ -10,7 +10,7 @@ Los tópicos son:
 
 **Sesión 3**. *Estimación de los parámetros cinéticos de Michaelis-Menten ($`V_{max}`$ y $`K_m`$) de datos experimentales.*
 
-**Sesión 4**. *Ecología y evolución de los organismos que producen las enzimas.*
+<!-- **Sesión 4**. *Ecología y evolución de los organismos que producen las enzimas.* -->
 
 Los Jupyter Notebooks que vez arriba tienen extensión `.ipynb`, una abreviación de iPython Notebook.
 A pesar del nombre, en ellos trabajaremos con el lenguaje de programación [Julia](https://julialang.org) no [Python](https://www.python.org), escribiendo texto y ecuaciones en formato [Markdown](https://www.markdownguide.org), todo contenido en el documento de `Jupyter`. 
