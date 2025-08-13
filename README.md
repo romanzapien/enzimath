@@ -30,7 +30,7 @@ GitHub tiene la habilidad de mostrar la imagen estática del notebook en el form
 
 **Sesión 3**. [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/romanzapien/enzimath/HEAD?filepath=modelado_sesion_3.ipynb)
 
-**Sesión 4**. [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/romanzapien/enzimath/HEAD?filepath=modelado_sesion_4.ipynb)
+<!-- **Sesión 4**. [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/romanzapien/enzimath/HEAD?filepath=modelado_sesion_4.ipynb) -->
 
 Da click en alguna de las ligas de arriba para comenzar a interactuar con el notebook correspondiente.
 Técnicamente al dar click estarás creando una [maquina virtual](https://es.wikipedia.org/wiki/Máquina_virtual) en un servidor en alguna parte del mundo. 
