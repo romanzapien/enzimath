@@ -21,6 +21,7 @@ A pesar del nombre, en ellos trabajaremos con el lenguaje de programación [Juli
 
 Si solo quieres vizualizar un notebook (no hacer modificaciones o ejecutar código), da click en el nombre del notebook arriba (por ejemplo click en `modelado_sesion_1.ipynb`). 
 GitHub tiene la habilidad de mostrar la imagen estática del notebook en el formato correcto.
+Si cierto notebook no se ve correctamente puedes visualizarlo en la página [https://nbviewer.org](https://nbviewer.org) pegando su URL ahí.
 
 ## Código interactivo en linea
 
